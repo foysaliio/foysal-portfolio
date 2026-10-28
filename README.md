@@ -1,15 +1,15 @@
 # Personal Portfolio
 
-A personal portfolio website showcasing my projects, technical skills, education, and background as a MERN Stack Developer.
+A personal portfolio website built with Next.js and TypeScript to showcase my projects, technical skills, education, and background as a MERN Stack Developer.
 
-## Overview
+## Live Website
 
-This portfolio highlights my development journey, technical expertise, and selected projects. It also provides an easy way to connect with me for professional opportunities and collaborations.
+[foysaliio.vercel.app](https://foysaliio.vercel.app/)
 
 ## Features
 
-- Responsive and modern design
-- Introduction and personal background
+- Responsive design for different screen sizes
+- Personal introduction and background
 - Technical skills and education
 - Selected projects
 - Contact section
@@ -23,19 +23,26 @@ This portfolio highlights my development journey, technical expertise, and selec
 
 ## Getting Started
 
+### Prerequisites
+
+- Node.js
+- npm
+
+### Installation
+
 Clone the repository:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/foysaliio/foysal-portfolio.git
 ```
 
 Navigate to the project directory:
 
 ```bash
-cd YOUR_REPOSITORY_NAME
+cd foysal-portfolio
 ```
 
-Install dependencies:
+Install the dependencies:
 
 ```bash
 npm install
@@ -51,10 +58,9 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ## Contact
 
-I'm open to development opportunities, internships, and collaborations.
-
-Feel free to connect with me through my portfolio.
+- GitHub: [foysaliio](https://github.com/foysaliio)
+- Portfolio: [foysaliio.vercel.app](https://foysaliio.vercel.app/)
 
 ---
 
-Built with Next.js and TypeScript.
+Built with Next.js, React, TypeScript, and Tailwind CSS.
